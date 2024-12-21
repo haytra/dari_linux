@@ -1,0 +1,64 @@
+
+.home li .profil,
+.home li:hover{
+    display: inline;
+    font-size: x-large;
+    padding: 20px 5% 20px 5%;
+    background: rgb(11, 228, 248);
+    border-radius: 0px;
+    border: rgb(130, 59, 2);
+    text-transform: capitalize;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: small-caps;
+    color: black;
+    border-radius: 30px;
+}
+.home li{
+    display: inline;
+    font-size: large;
+    padding: 2px 2% 2px 7%;
+    background: rgb(1, 3, 3);
+    border-radius: 9px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-transform: uppercase;
+    color: aliceblue;
+}
+.backrond,.home{
+   background: rgb(13, 13, 15);
+   padding-top: 10px;
+   padding-bottom: 10px;
+   border-radius: 19px;
+}
+.isi{
+    float: right;
+    width: 400px;    
+    color: black;
+}
+body{
+    width: 1000px;
+    margin: 0px auto;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.lalu{
+    float: left;
+    width: 590px;
+}
+.cuman{
+    overflow: auto;
+}
+span{
+    text-transform: uppercase;
+   color: rgb(6, 6, 99);
+}
+.hayal a{
+cursor: all-scroll;
+text-decoration: none;
+border: none;
+color: black;
+}
+.home li ,a{
+    text-decoration: none;
+    color: rgb(249, 249, 250);
+}
