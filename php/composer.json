@@ -1,0 +1,16 @@
+{
+    "name": "uyabri/php",
+    "autoload": {
+        "psr-4": {
+            "Uyabri\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "haytra",
+            "email": "hadibayusaputra253@gmail.com"
+        }
+    ],
+    "require": {},
+    "scripts": {"server":"php -S localhost:8080"}
+}
